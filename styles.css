@@ -1,0 +1,259 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body, html {
+  height: 100%;
+}
+
+.main_banner {
+
+  /* Full height */
+	height: 100%; 
+	width: 100%;
+	
+	background-color: white;
+	display: none;
+	
+	-webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+	-webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+	animation-name: example;
+	animation-duration: 4s;
+}
+
+#main_ansys{ width: 100%;}
+#main_imam{ width: 100%;}
+#main_3{ width: 100%;}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+  0% 	{opacity: 0;}
+  25%	{opacity: 1;}
+  75% 	{opacity: 1;}
+  100% 	{opacity: 0;}
+}
+
+/* Standard syntax */
+@keyframes example {
+  0% 	{opacity: 0;}
+  25%	{opacity: 1;}
+  75% 	{opacity: 1;}
+  100% 	{opacity: 0;}
+}
+
+/*This is the first text banner with it's title*/
+#section1_text{
+	
+	height:200px;
+	position: relative;
+	background-color: rgb(220,220,220);
+	font-size:32px;
+	text-align: center;
+	font-family: "Arial",sans-serif;
+	font-weight: bold;
+}
+
+/*This is the text inside the first text banner*/
+#section1_internal_text{
+	
+	width:50%;
+	font-size:22px;
+	text-align: justify;
+	text-align-last: center;
+	position: relative;
+	top: 20px;
+	margin: auto; /*This is needed to keep the div center relative to the screen*/
+	font-weight: normal;
+}
+
+#section2_text{
+	
+	height:200px;
+	position: relative;
+	top: 30%;
+	background-color: rgb(220,220,220);
+	font-size:32px;
+	text-align: center;
+	font-family: "Arial",sans-serif;
+	font-weight: bold;
+	clear: left;
+}
+
+/*This is the text inside the first text banner*/
+#section2_internal_text{
+	
+	width:50%;
+	font-size:22px;
+	text-align: justify;
+	text-align-last: center;
+	position: relative;
+	top: 20px;
+	margin: auto; /*This is needed to keep the div center relative to the screen*/
+	font-weight: normal;
+	clear: left;
+	
+}
+
+#section3_text{
+	
+	height:200px;
+	position: relative;
+	top: 60%;
+	background-color: rgb(220,220,220);
+	font-size:32px;
+	text-align: center;
+	font-family: "Arial",sans-serif;
+	font-weight: bold;
+	clear: left;
+}
+
+/*This is the text inside the first text banner*/
+#section3_internal_text{
+	
+	width:50%;
+	font-size:22px;
+	text-align: justify;
+	text-align-last: center;
+	position: relative;
+	top: 20px;
+	margin: auto; /*This is needed to keep the div center relative to the screen*/
+	font-weight: normal;
+	clear: left;
+	
+}
+
+#section4_text{
+	
+	height:200px;
+	position: relative;
+	top: 92%;
+	background-color: rgb(220,220,220);
+	font-size:32px;
+	text-align: center;
+	font-family: "Arial",sans-serif;
+	font-weight: bold;
+	clear: left;
+}
+
+/*This is the text inside the first text banner*/
+#section4_internal_text{
+	
+	width:50%;
+	font-size:22px;
+	text-align: justify;
+	text-align-last: center;
+	position: relative;
+	top: 20px;
+	margin: auto; /*This is needed to keep the div center relative to the screen*/
+	font-weight: normal;
+	clear: left;
+	
+}
+
+#section5_text{
+	
+	height:200px;
+	position: relative;
+	top: 125%;
+	background-color: rgb(220,220,220);
+	font-size:32px;
+	text-align: center;
+	font-family: "Arial",sans-serif;
+	font-weight: bold;
+	clear: left;
+}
+
+/*This is the text inside the first text banner*/
+#section5_internal_text{
+	
+	width:50%;
+	font-size:22px;
+	text-align: justify;
+	text-align-last: center;
+	position: relative;
+	top: 20px;
+	margin: auto; /*This is needed to keep the div center relative to the screen*/
+	font-weight: normal;
+	clear: left;
+	
+}
+
+.small_icons{
+	
+	float: left;
+	width: 20%;
+	position: relative;
+	top: 15%;
+	
+}
+
+.small_icons.small_icon_1{
+	
+	padding-left: 11%;
+	
+}
+
+.small_icons2{
+	
+	float: left;
+	width: 20%;
+	position: relative;
+	top: 45%;
+	
+}
+
+.small_icons2.small_icon_1b{
+	
+	padding-left: 11%;
+	
+}
+
+.small_icons3{
+	
+	float: left;
+	width: 20%;
+	position: relative;
+	top: 75%;
+	bottom: 20%;
+	
+}
+
+.small_icons3.small_icon_1c{
+	
+	padding-left: 11%;
+	
+}
+
+.small_icons4{
+	
+	float: left;
+	width: 20%;
+	position: relative;
+	top: 105%;
+	bottom: 20%;
+	
+}
+
+.small_icons4.small_icon_1d{
+	
+	padding-left: 11%;
+	
+}
+
+.small_icons5{
+	
+	float: left;
+	width: 20%;
+	position: relative;
+	top: 140%;
+	bottom: 20%;
+	
+}
+
+.small_icons5.small_icon_1e{
+	
+	padding-left: 11%;
+	
+}
