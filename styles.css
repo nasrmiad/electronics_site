@@ -656,5 +656,10 @@ body, html {
 
 	position: relative;
 	text-align: center;
+	text-decoration:none;
+	font-family: "Arial",sans-serif;
+	font-weight: normal;
+	font-size: 20px;
+	color: white;
 
 }
