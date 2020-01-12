@@ -651,3 +651,10 @@ body, html {
 	background-color: rgb(0,0,128);
 	
 }
+
+.ending_text{
+
+	position: relative;
+	text-align: center;
+
+}
