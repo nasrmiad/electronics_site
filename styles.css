@@ -40,6 +40,8 @@ body, html {
 	font-weight: normal;
 	font-size: 20px;
 	color: black;
+	background-color: rgba(220,220,220,0.5);
+	text-decoration:none;
 }
 
 .menu_item:hover{
