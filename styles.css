@@ -22,9 +22,9 @@ body, html {
 	position: relative;
 	text-align: center;
 	width: 60%;
-	heigth: 10%;
-	top: 5%;
+	top: 2%;
 	left: 40%;
+	bottom: 60%;
 	background-color: rgba(220,220,220,0.5);
 	text-decoration:none;
 	
