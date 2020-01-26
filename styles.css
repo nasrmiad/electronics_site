@@ -24,6 +24,8 @@ body, html {
 	width: 60%;
 	top: 5%;
 	left: 40%;
+	background-color: rgba(220,220,220,0.5);
+	text-decoration:none;
 	
 }
 
@@ -40,8 +42,6 @@ body, html {
 	font-weight: normal;
 	font-size: 20px;
 	color: black;
-	background-color: rgba(220,220,220,0.5);
-	text-decoration:none;
 }
 
 .menu_item:hover{
